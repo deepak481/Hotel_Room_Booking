@@ -625,7 +625,7 @@ h6 {
   text-align: center;
   padding-top: 50px;
   padding-bottom: 50px;
-  background-color: #222;
+  background-color: var(--primaryColor);
 }
 
 .footer h2,
@@ -648,6 +648,12 @@ p {
   -o-transition: var(--mainTransition);
 }
 
-.single-extra {
-  margin-top: 0.5rem;
+.filter-container {
+  .filter-form {
+    .form-group {
+      input {
+        accent-color: var(--primaryColor)
+      }
+    }
+  }
 }
