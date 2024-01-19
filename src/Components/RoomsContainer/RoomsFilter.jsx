@@ -90,7 +90,7 @@ export default function RoomFilter({ rooms }) {
 
         {/* room price start */}
         <div className="form-group">
-          <label htmlFor="price">room price ${price}</label>
+          <label htmlFor="price">room price ₹{price}</label>
 
           <input
             type="range"

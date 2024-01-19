@@ -13,25 +13,25 @@ export default class Services extends Component {
         icon: <FaCocktail />,
         title: "free cocktails",
         info:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores est eaque error provident unde eligendi.",
+          "Enjoy complimentary cocktails at our hotel, a perfect blend of luxury and hospitality, adding a touch of elegance to your stay. Cheers!",
       },
       {
         icon: <FaHiking />,
         title: "endless hiking",
         info:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores est eaque error provident unde eligendi.",
+          "Embark on endless hiking adventures surrounded by nature's beauty. Discover breathtaking trails and serenity that rejuvenate your spirit.",
       },
       {
         icon: <FaShuttleVan />,
         title: "free shuttle",
         info:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores est eaque error provident unde eligendi.",
+          "Explore hassle-free with our free shuttle service, offering convenience and easy access to local attractions during your stay with us.",
       },
       {
         icon: <FaBeer />,
-        title: "storages beer",
+        title: "wellness oasis",
         info:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores est eaque error provident unde eligendi.",
+          "Indulge in our Wellness Escape featuring complimentary yoga, spa access, and rejuvenating activities for a perfect retreat into tranquility.",
       },
     ],
   };
